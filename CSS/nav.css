@@ -1,0 +1,51 @@
+nav {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    background-color:rgb(196, 23, 12);
+}
+
+.menu {
+    width: 30px;
+    height: 30px;
+    margin-left: 24px;
+    align-self: center;
+}
+
+.menupalavra {
+    font-family:fantasy;
+    color: white;
+    margin-left: 8px;
+    align-self: center
+}
+
+.logo {
+    width: 75px;
+    height: 50px;
+    margin-left: 545px;
+    align-self: center;
+}
+
+.pesquisar {
+    width: 200px;
+    height: 40px;
+    display: flex;
+    background-color: darkred;
+    align-self: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 24px;
+    border-radius: 5px;
+}
+
+.lupa {
+    width: 30px;
+    height: 30px;
+    margin-left: 8px;
+}
+
+.buscarpalavra {
+    font-family: fantasy;
+    color: white;
+    margin-left: 16px;
+}

@@ -1,0 +1,26 @@
+footer {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    background-color:rgb(196, 23, 12);
+}
+
+.logofooter {
+    width: 75px;
+    height: 50px;
+    margin-top: 2px;
+}
+
+.noticias {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin-top: 18px;
+}
+
+.copyright {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    align-self:self-end;
+    margin-left:290px;
+    margin-bottom: 8px;
+}

@@ -1,0 +1,84 @@
+.titulo {
+    display: flex;
+    width: 400px;
+    height: 100px;
+    background-color: rgb(196, 23, 12);
+    border: 1px solid darkred;
+    border-radius: 25px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.titulotexto {
+    font-family: fantasy;
+    color: white;
+    font-size: 31px;
+    margin-top: 6px;
+}
+
+.titulotexto1 {
+    margin-left: 6px;
+}
+
+.quadro {
+    width: 575px;
+    height: 700px;
+    border: 1px solid darkred;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.linhas {
+    width: 500px;
+    height: 60px;
+    background-color: rgb(196, 23, 12);
+    border: 1px solid darkred;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.sublinha {
+    width: 150px;
+    height: 40px;
+    background-color: darkred;
+    border-radius: 25px;
+    margin-right: 16px;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.palavralinhas {
+    font-family: fantasy;
+    font-size: 24px;
+    color: white;
+    margin-left: 24px;
+}
+
+.palavrasublinhas {
+    font-family: fantasy;
+    font-size: 32px;
+    color: white;
+}
+
+.datalinha {
+    display: flex;
+    height: 50px;
+    width: 225px;
+    background-color:rgb(196, 23, 12);
+    border: 1px solid darkred;
+    border-radius: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.data {
+    font-family: fantasy;
+    color: white;
+}
